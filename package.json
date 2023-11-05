@@ -1,0 +1,9 @@
+{
+  "name": "lambda-edge-handler",
+  "version": "0.0.1",
+  "description": "An AWS Lambda@Edge http request handler generator",
+  "main": "index.js",
+  "repository": "git@github.com:adriaan-pelzer/lambda-edge-handler.git",
+  "author": "Adriaan Pelzer <adriaan.pelzer@gmail.com>",
+  "license": "MIT"
+}
